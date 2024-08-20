@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  },
+  "appDetail": {
+    "message": "Sauvegardez, exportez ou analysez vos e-mails et étiquettes vers Google Sheets"
+  },
+  "appShortName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  }
+}

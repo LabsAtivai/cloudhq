@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  },
+  "appDetail": {
+    "message": "Maak een back-up, exporteer of parseer uw e-mailberichten en labels naar Google Spreadsheets"
+  },
+  "appShortName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  },
+  "appDetail": {
+    "message": "Sichern, exportieren oder parsen Sie Ihre E-Mail-Nachrichten und Labels in Google Sheets"
+  },
+  "appShortName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  }
+}

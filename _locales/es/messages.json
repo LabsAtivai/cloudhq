@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  },
+  "appDetail": {
+    "message": "Haga una copia de seguridad, exporte o analice sus mensajes de correo electrónico y etiquetas en Hojas de cálculo de Google"
+  },
+  "appShortName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  },
+  "appDetail": {
+    "message": "Twórz kopie zapasowe, eksportuj lub analizuj wiadomości e-mail i etykiety do Arkuszy Google"
+  },
+  "appShortName": {
+    "message": "Export Emails to Sheets by cloudHQ"
+  }
+}
